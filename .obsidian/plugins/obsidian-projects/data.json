@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "Status": {
+          "options": [
+            "Completed"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [
+        "Templates/Note.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/demo_project",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "Projects/demo_project",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "bebaf7f0-c976-4c11-b0c8-7b797179d441",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "9b07d42b-d93e-4ae7-b9ca-03566a860e1e",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "82e1872d-0ac6-454d-b8b7-0486c45804b1",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "a3d5892b-35ab-4182-8922-81fa82c50ea8",
+      "name": "Demo_project"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

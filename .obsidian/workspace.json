@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "bae25fe0d04ba2e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "692060c053838b5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38aebe5437ebf404",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce0b1e42fa8d2914",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7ad890627e4c9d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbb0a380c100c29a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1d9f5fa2e63172fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "608e1b980612dd7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b06e461e3732f120",
+    "type": "split",
+    "children": [
+      {
+        "id": "882093324e64b1f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f859ff1ef391281",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5a7c315e4c34ab4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3056b1f9652049f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02e67376976d5c5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4de31f8303dd617f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3615f2fe404a72cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25d7a968e9360c15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "38aebe5437ebf404",
+  "lastOpenFiles": [
+    "Meetings/Untitled.md",
+    "Projects/demo_project.md",
+    "Templates/Meeting Note.md",
+    "Templates/New Project.md",
+    "Templates/Scratch Note.md",
+    "Daily Notes/2024/04-April/2024-04-25-Thursday.md",
+    "Templates/Daily Note.md",
+    "Scratch Notes/demo_note.md",
+    "Scratch Notes/Untitled.md",
+    "Tasks Plugin - Review and check your Statuses 2024-04-25 23-48-14.md",
+    "Untitled Kanban.md",
+    "Untitled.canvas",
+    "Projects/test.md",
+    "Scratch Notes",
+    "Meetings",
+    "Daily Notes/2024/04-April",
+    "Daily Notes/2024",
+    "Daily Notes",
+    "Projects/demo_project/demo_note.md",
+    "2024-04-25.md",
+    "Welcome.md",
+    "create a link.md",
+    "Templates",
+    "Projects/demo_project",
+    "Projects"
+  ]
+}
